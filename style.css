@@ -31,23 +31,22 @@ html {
   font-style: bold;
   text-align: center;
 }
-
+p {
+	text-align: center;
+	display: block;
+}
 h2 {
   text-align: center;
   display: block;
   color: #fa96c8;
 }
 
-.container td a {
-  text-align: center;
-  display:block;
-  color: #00ffe6; 
-  text-decoration: none;
-  height:100%;
+a {
+  color: #fa96c8;
 
 }
 
-td a:hover {
+a:hover {
 background-color: #00ffe6;
 }
 
